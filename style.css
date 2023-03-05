@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.card{
+    display: flex;
+    width: 500px;
+    margin: 40px auto;
+    padding: 40px;
+    background-color: #e4c1f9;
+    border-bottom: 6px solid #0f4c5c;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2f3e46;
+    text-align: center;
+}
+
+.card-text{
+    margin: auto;
+    line-height: 30px;
+}
